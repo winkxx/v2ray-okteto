@@ -8,14 +8,14 @@
         "clients": [
           {
             "id": "c62194eb-645b-4058-b175-8ed05c95bd3f",
-            "alterId": 0
+            "alterId": 520
           }
         ]
       },
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-        "path": "/"
+        "path": "/xxr"
         }
       }
     }
