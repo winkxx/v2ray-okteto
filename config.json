@@ -15,7 +15,8 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-        "path": "/xxr"
+        "path": "/xxr",
+        "security": "auto"
         }
       }
     }
